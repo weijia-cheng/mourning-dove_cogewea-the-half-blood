@@ -185,7 +185,7 @@ every thing as inevitable and with a brave heart. Smile, even though
 there appears nothing for which to live. Why attempt to lift the mask of
 existence? Surely, in time we will realize and know.
 
-Cogewea’s impulse was to be going ,going, going; and with the completion
+Cogewea’s impulse was to be going, going, going; and with the completion
 of the morning’s work, she determined to take a gallop on Wanawish among
 the hills. This, perhaps, would put the phantoms to flight. She would
 also bring the mail, for they were expecting to hear from her sister
@@ -910,7 +910,7 @@ Ev’ry paper a feller parooses says somethin’ ‘bout people a throwin’
 rotten aigs at ‘em. I fergit that there name they call ’em, but yo’
 oughter know. I hater talk so much ‘bout-’
 
-‘Oh! I know what you are referring to. Suffragettes .’
+‘Oh! I know what you are referring to. Suffragettes.’
 
 ‘Y-a-s! that’s ’em. People a bowlin’ aigs at ‘em.’
 
@@ -1322,7 +1322,7 @@ man could not ride. You had no business getting him on the devil.’
 ‘Why-I-I-I thought he could ride! the d-’
 
 ‘You hurry and get some water as quick as God will let you. I think this
-man is dead. Hurry !’ she called after him in an anxious tone.
+man is dead. Hurry!’ she called after him in an anxious tone.
 
 Jim hardly heard the last words. He was running down the sloping river
 bank with a tin can in his hand. He dipped it in the stream, but the
@@ -1512,7 +1512,7 @@ he’ll come out in the lead.’
 ‘Say, Jim! I’ll ride the Star in the squaw race,’ exclaimed the girl in
 elation. ‘I’m part Injun and can participate in that as well as in the
 ladies race. They can’t stop me from riding in both races, can they? If
-there’s any difference between a squaw and a lady , I want to know it. I
+there’s any difference between a squaw and a lady, I want to know it. I
 am going to pose as both for this day.’
 
 ‘That’s a go, little squaw! The Devil in the ladies race; the Star in
@@ -1542,7 +1542,7 @@ fact prefer it. So the Stemteemä is going? Well, there is class to her.’
 ‘Why! I’m not saying any thing mean about her. Was just admiring her
 grit. I know why she is going. It is not for the firecracker celebration
 of the Declaration of Independence—which is not for our race—but for the
-Indian pom-pom . She is thinking of the olden days when she was younger
+Indian pom-pom. She is thinking of the olden days when she was younger
 than now. The joy of her heart is participating in the war dance and the
 medicine dance.’ 8
 
@@ -1773,7 +1773,7 @@ riders. One of the Kootenai girls turned to her and spoke sharply in
 good English:
 
 ‘You have no right to be here! You are half-white! This race is for
-Indians and not for breeds !’
+Indians and not for breeds!’
 
 Cogewea made no reply, but she was overwhelmed with the soul-yearning
 for sympathy. For her class-the maligned outcast half-blood-there seemed
@@ -1895,7 +1895,7 @@ the heavy face and his backers.
 
 ‘My hearin’ ain’t no ways defective,’ came the serene reply without
 notice to this side clamor, ‘But I may be locoed as to your meanin’. I
-take it that the little gal bein’ a squaw , she can’t be a lady ! Is
+take it that the little gal bein’ a squaw, she can’t be a lady! Is
 that it? She’s a waitin’ to hear you say that. Tell these here people
 your ‘cisin regardin’ the character of the little gal.’
 
@@ -2130,7 +2130,7 @@ by his patient squaw. His broad chest was emblazoned with native wampum,
 as well as ornaments and beads highly prized. These last, his
 grandfather had purchased with beaver skins from the Hudson’s Bay
 Company nearly a hundred snows before. In his hand he carried his
-te-keesten , 12 with feathers and strips of fur attached.
+te-keesten, 12 with feathers and strips of fur attached.
 
 The dancing was immediate, with other couples joining the ever
 lengthening, and widening circle. Moving to the left, the short measured
@@ -2299,7 +2299,7 @@ living picture.’ Perhaps he had been too harsh in his deductions. Could
 there be guile in a face of such open frankness? What could be expected
 of the best with such environments? Her forward ways were but those of
 innocence. A wild flower unscathed by sun-blight or frost-a ruby
-unflawed-a jewel worthy of any setting. But after all, she was a squaw ,
+unflawed-a jewel worthy of any setting. But after all, she was a squaw,
 while he was of an altogether higher cast. Densmore brushed aside all
 feelings kindred to love, but he gazed at her with a fascination ill
 becoming one of his superior breeding. Cogewea, ever observant, grew
@@ -2382,7 +2382,7 @@ rock-hampered fountain. Imbued with such lofty ideals, it is not
 surprising that she preferred thinking of her parents as dead-in the
 general acceptance of the termfor that most dreadful of all
 denouncatories: ‘Thou art weighed in the balances, and art found
-wanting’ ; loomed terrifically against the background of her conception
+wanting’; loomed terrifically against the background of her conception
 of a life of profligacy.
 
 The touch of sadness in Cogewea’s voice as she spoke of her parents, was
@@ -2411,11 +2411,11 @@ want to ask a favor.’
 
 ‘Is that all? Sure thing! I thought you were going to strike me for a
 round thousand, from the way you hesitated. Come to your trough at
-sitkum sun . S’long!’ with the wave of a hand.
+sitkum sun. S’long!’ with the wave of a hand.
 
 ’ Trough! system sun! What do you mean?’
 
-‘Grub at noon. Sitkum sun is mid-day. Chinook . I learned it on the
+‘Grub at noon. Sitkum sun is mid-day. Chinook. I learned it on the
 Columbia. It is hardly spoken here.’
 
 After dinner and the kitchen work disposed of, Cogewea joined her
@@ -2537,7 +2537,7 @@ Cogewea had willingly stayed at home. The letter writing under the pines
 the previous day had had a disquieting effect. What could Densmore have
 meant? The world should appear more beautiful than she was finding it.
 She had half expected the Easterner to join her, but he had, immediately
-after dinner, repaired to the bunk-house and was indulging in a siesta .
+after dinner, repaired to the bunk-house and was indulging in a siesta.
 The girl, vexed and disappointed, had resorted to reading but with no
 concentration of thought. The theme, an unjust presentation of Indian
 sentiment and racial traits; The Brand -stigma of the blood-did not tend
@@ -2556,9 +2556,9 @@ and I want to mend–’
 ‘Oh! I don’t know!’ she broke in with piquant resentment. ‘Look for it
 yourself and leave me alone! I’m cross as a bear! I almost hate myself
 today. Every thing is against me, even to this maligning, absurdity of a
-book. The thing does nothing but slam the breeds ! as if they were
+book. The thing does nothing but slam the breeds! as if they were
 reptiles instead of humans. You are no good! along with all the rest of
-us. You are only an Injun!-a miserable breed !-not higher than the dust
+us. You are only an Injun!-a miserable breed!-not higher than the dust
 on your white brothers’ feet. Go away!’
 
 Jim turned without comment, walking towards the bunk house. He was
@@ -2649,7 +2649,7 @@ white ‘princess’ that lives. Such hash may go with the whites, but the
 Indian, both full bloods and the despised breeds know differently. And,
 that a ‘hero’ should be depicted as hating his own mother for the flesh
 and heart that she gave his miserable frame. What a figure to be held up
-for laudation by either novelist or historian! No man , whether First
+for laudation by either novelist or historian! No man, whether First
 American, Caucasian or of any other race, could be so beastly inhuman in
 real life; so low and ungratefully base as to want to hide his own
 mother. The lower animals respond to this instinct, and can people
@@ -2665,7 +2665,7 @@ the annals had always been chronicled by their most deadly foes and
 partisan writers. In the light of unbiased facts, they had been no worse
 than any other race under similar conditions, and perhaps not so bad;
 the Caucasian not excepted. Human skins had never been nailed to their
-places of worship. In the comparison, although a breed , she spurned
+places of worship. In the comparison, although a breed, she spurned
 with resentment the implied inference that she was not the social equal
 of the most exalted of her self-constituted supermundanes. She felt a
 native pride in her Red forefathers who had fought so patriotically for
@@ -3067,7 +3067,7 @@ to cheat you; all that any white man wants of the Indian girl. It is
 only to put her to shame, then cast her aside for his own kind - the
 pale faced squaw. Do not be foolish! my Cogewea. Do not bring grief to
 my old age; do not wound my heart. You are too free with all men,
-especially this strange Sho-yah-pee . I do not like him! His eye speaks
+especially this strange Sho-yah-pee. I do not like him! His eye speaks
 the lie. You must not be so much with him. If his intentions were good,
 he would want to take you to the priest and marry you. All that the pale
 faces desire of Indian women, is pleasure and riches. When they get
@@ -3682,7 +3682,7 @@ the mood for talking. She must have time to gather her mind’s thoughts.
 
 The girl then gently took the tobacco pouch from the trembling hands and
 bringing the small stone pipe from the same receptacle, filled it with
-the fragrant kinnikinnick ; and lighting it, returned it to the smoker.
+the fragrant kinnikinnick; and lighting it, returned it to the smoker.
 During the ensuing ‘peace pipe invocation,’ Cogewea, at Densmore’s
 request, elucidated on the mysteries of this rite of antiquity:
 
@@ -3746,7 +3746,7 @@ unknown, crowded nations.
 
 ‘This was long ago,’ began Stemteemä, ’many many snows. It happened in
 the time of my grandfather, when he was a young chief of the powerful
-Schw-ayl-p k 18 and the Okanogans . This story I am telling you is true.
+Schw-ayl-p k 18 and the Okanogans. This story I am telling you is true.
 It was given me by my father who favored me among his many children. I
 was his youngest child from his youngest wife, who was cherished among
 his twelve wives. He told me the tales that were sacred to his tribe;
@@ -3779,7 +3779,7 @@ lie. This was why scalping was practiced by all the tribes.
 ’Always, the falling of the first snow was the sign that the Great
 Spirit was calling. The tribesmen then ceased hunting the buffalo, deer,
 elk, moose and antelope. Gathering in the village, everything was laid
-aside for the Spirit’s Days , which were fourteen sundowns. They danced
+aside for the Spirit’s Days, which were fourteen sundowns. They danced
 in worship to the Spirit, to continue His favors to the tribe; that the
 trees, the grass and herbs be perpetual; that the deer and all game be
 plentiful the coming season and that the red salmon again swarm up the
@@ -3972,7 +3972,7 @@ CHAPTER XV
 THE SUPERIOR RACE
 -----------------
 
-. . . So well His legendary song could tellOn ancient deeds, so long
+... So well His legendary song could tellOn ancient deeds, so long
 forgot! Of feuds, whose memory was not; Of forests, now laid waste and
 bare.
 
@@ -4367,8 +4367,8 @@ Indian reservation of the Union. A vampire! whose wing cools with the
 breeze of never-to-be-filled promises, the wound of its deadly beak,
 while it drains the heart’s blood of its hapless ‘ward.’ Where rested
 the wrong? The Bureau! a branch of the Government. The Government? the
-dollar-marked will of the politician. The politician? the priest , and
-the Levite , who ‘pass on the other side’ from the bruised, and robbed
+dollar-marked will of the politician. The politician? the priest, and
+the Levite, who ‘pass on the other side’ from the bruised, and robbed
 victim of systematized plunder-lust, lying naked by the trail. Should an
 occasional Samaritan stoop to minister to the sufferer’s wants, he is
 rebuked by the Bureaucrats, and warned that such charity is ill advised;
@@ -4515,7 +4515,7 @@ not a bit over zealous, and therefore mistaken in your contentions in
 this respect? While I came from Canada directly, I was raised in the
 Atlantic states, and have seen reports from the Indian Commissioner
 covering the administrations on all the reservations. From the
-statements therein contained, the Indian Bureau is. . . .’
+statements therein contained, the Indian Bureau is....’
 
 ‘A nasty smear the Government escutcheon,’ broke in the girl fiercely.
 ‘A stagnant cesspool swarming with political hatched vermin! Stenchful
@@ -4590,7 +4590,7 @@ square deal, he will go forward, and his racial affinities-the product
 of climatic and celestial influences-will stamp themselves on the entire
 Nation. This characteristic at times urges me on. I like to contend for
 that which I deem to be my rights. I must go on the war path and have my
-say or I’ll bust ! Savey?’
+say or I’ll bust! Savey?’
 
 The Easterner regarded his companion with open amusement, as he
 rejoined:
@@ -4705,7 +4705,7 @@ Cogewea had turned on her companion, wondering questioning eyes. The
 breed girl was reaching where there were thorns.
 
 ‘Cogewea! little darling!’ Densmore whispered as his arm stole about
-her. ‘I love you! and yesterday you promised. . . .’
+her. ‘I love you! and yesterday you promised....’
 
 ‘It is late!’ she exclaimed slipping from the rock. ‘We had better go!’
 
@@ -4771,13 +4771,13 @@ returned a cheery: ‘Hell-o!’ He then spoke:
 
 ‘Aw! shake yourself. Speak English!’
 
-’ Mon-dieu ! I wassa soom blee-ad! soom le-tal bis-a-cat!’
+’ Mon-dieu! I wassa soom blee-ad! soom le-tal bis-a-cat!’
 
 ‘Oh! you want a cat, a little kitten?’ Cogewea laughed amusedly. ‘Well,
 we have none to spare. We are short of cats just now; stock all run
 down. Can book your order.’
 
-’ Sac-ré !’ he almost screamed, throwing up his hands in despair. ‘I
+’ Sac-ré!’ he almost screamed, throwing up his hands in despair. ‘I
 wassa blee-ad! soom bis-a-cat. You let-a me star-ruv; go hun-gar-reé?’
 
 Mary, hearing the ‘stampede’ from the veranda, called to her sister that
@@ -4972,7 +4972,7 @@ stream a silvery form leaped, scintillating in a radiant curve, sending
 up a shower of sparkling spray as the fish clove the water. The played
 out line slacked and the fisherman reeled in, minus hook and fly
 
-‘King of the Pend d’Oreille!’ exclaimed Cogewea. ‘How gamy! You. . . .’
+‘King of the Pend d’Oreille!’ exclaimed Cogewea. ‘How gamy! You....’
 
 Her own line spun with a musical purr, and deftly handling the reel, she
 slowly brought the stampeding salmonoid too in a wide, sweeping circle.
@@ -5114,7 +5114,7 @@ The plotter felt the girl tremble as he drew her closer. Was realization
 within his grasp? He had lied broadly, but what of that. There was
 pathos in her voice as she made reply:
 
-‘Because I am a breed !-only part white. But few recognize my kind
+‘Because I am a breed!-only part white. But few recognize my kind
 socially. We are often made to suffer from the ungenerous remarks and
 actions of those who feel themselves above us.’
 
@@ -5164,7 +5164,7 @@ outflung, she exclaimed in terror:
 ‘Look! See how the frown of the Sun-god darkens the earth! He bends his
 shaggy brow over the portals of the West-wind and hurls his anger along
 the sky! He breathes! and the air is thick with anguish! It is the
-Swa-lah-kin ! You did this!’ she cried angrily. ‘You should not have
+Swa-lah-kin! You did this!’ she cried angrily. ‘You should not have
 turned the frog! Come! let us hurry home! We will be fortunate if we
 escape with only a drenching.’
 
@@ -5266,7 +5266,7 @@ trouble-free until she met her fate in the false Shoyahpee.
 face. He carried a gun and had killed a deer. He spoke with a soft
 voice, but the tongue was strange. His words she could not understand,
 but the signs he made were pleasing. His eyes were afire with greed, but
-the young is ever blind. The buttons on his capo , blazed as the sun.
+the young is ever blind. The buttons on his capo, blazed as the sun.
 She brought him to the lodge of the aunt, where he left the deer as a
 gift and then went away.
 
@@ -5470,7 +5470,7 @@ I could not understand their language. Their tongue was different from
 that of the Okanogans.
 
 ’ ’I was brought to the Chief’s lodge, which was made of tanned buffalo
-skins, painted and decorated with tul-le-men . 32 The Chief, an old man,
+skins, painted and decorated with tul-le-men. 32 The Chief, an old man,
 had seven wives, the youngest a mere child of fourteen snows. He called
 his warriors and they had a council over me. This lasted for some time,
 but at last through signs, they made me to comprehend my fate. A
@@ -5532,7 +5532,7 @@ the side of the war pipe. I threw the tokee-sten to the ground. I
 stepped on it! Then I drew one big breath through the sacred pipe, but
 left it hanging where it was. I took the bows and arrows for future use.
 Slinging the quiver over my back, I placed an arrow to the bowstring and
-came out of the tepee painted with the Chief’s own tul-le-men . I ran
+came out of the tepee painted with the Chief’s own tul-le-men. I ran
 for the river, then deep, swift and muddy from heavy rains. I was a good
 swimmer and did not fear the water.
 
@@ -5600,7 +5600,7 @@ with its unknown fate.
 
 ’ ‘When I reached my people, they were all glad to see me. My feet were
 bare except for the worn strips of my once fine fourpoint 36 Hudson Bay
-blanket. This is why I am called by my tribe,’ Green-blanket Feet .’ The
+blanket. This is why I am called by my tribe,’ Green-blanket Feet.’ The
 name connects me with the false tongued Shoyahpee of other snows. It is
 the strong, clinging memory-hated thing-which recalls the face of the
 one I once loved; whose words I believed. The blanket was his gift when
@@ -5667,7 +5667,7 @@ Canary.’ Educated beyond his associates and possessing an exquisite
 voice, he rendered the evening campfire gatherings more cheery and it
 was not long before the singer was a general favorite with all. Devoted
 to his horse, he rode without whip or spur; and he invariably made his
-couch alongside of Twilight , as the great black was known. The boys
+couch alongside of Twilight, as the great black was known. The boys
 declared that the Canary even shared his blanket with his dumb
 companion, when the nights were chilly.
 
@@ -5750,7 +5750,7 @@ and buckling on of spurs by all the riders. The even voice of the
 foreman interrupted the proceedings:
 
 ‘Boys, this here is a ser’ous undertakin’: a ridin’ that hellbusted
-country this black night. But we’re a goin ! Listen: Our hosses, all
+country this black night. But we’re a goin! Listen: Our hosses, all
 tired out, ain’t yet had much rent and but little feed. Let ‘em eat
 while we swaller some grub and hot coffee. We’ll make better time for it
 after gittin’ started. Them lanterns better have more oil. Fill your
@@ -5934,7 +5934,7 @@ sometimes rubbing down his tired mount. No difference what the weather,
 he works just the same, cutting out and branding the ‘slick-ears,’ as
 the outfit goes from one grazing locality to another. This is kept up
 until the entire Reservation’s open range has been covered. During such
-rodeo , each stockman has his share of well mounted riders in the field.
+rodeo, each stockman has his share of well mounted riders in the field.
 
 Carter’s boys were now returning to the ranch for a well earned rest;
 and, but for the one tragedy, all would have been as happy as a bunch of
@@ -6517,7 +6517,7 @@ affections; one capable of’ ‘preciatin the best rider of the Flathead.’
 ‘Cogewea! I don’t want a gal too blamed good. You are my kind! There
 ain’t no more like you. Don’t let any white feller steal your heart.’
 
-‘I don’t think that he is any ipsoot kapswallie ,’ 41 she laughed
+‘I don’t think that he is any ipsoot kapswallie,’ 41 she laughed
 amusedly. ‘But I will be on my guard, for I prefer giving my heart away
 rather than have some one sneak in and take it simply because he happens
 to find the latch string on the outside.’
@@ -6579,7 +6579,7 @@ The Westerner’s words were low, measured, and deadly even:
 ‘The best rider of the Flathead hunts no trouble. Neither does he run
 should it hunt him. A brother is sometimes more dangerous than a lover.
 As a brother, I’d be a howlin’ bad actor if feelin’ called on to protect
-my dependent sister from a low crawlin’ puchqeeh . 42 Ol’ Jim would sure
+my dependent sister from a low crawlin’ puchqeeh. 42 Ol’ Jim would sure
 be locoed.’
 
 Cogewea laughed nervously. While the half-blood was all kindness to her,
@@ -7120,7 +7120,7 @@ my father, who was a great war Chief, repeated the story to me often. He
 told me just as I will now tell it to you.
 
 ’ ‘One snow,’ said my father, ’my tribe, the Okanogans and some of the
-Schu-ayl-p k , had their village on the banks of the Swanetk-qha. The
+Schu-ayl-p k, had their village on the banks of the Swanetk-qha. The
 snow was just covering the earth, the first calling of the Great Spirit.
 We had plenty of food for the winter moons. The seasons had been
 abundant in roots, berries and game; and the red salmon which comes up
@@ -7199,7 +7199,7 @@ knew everything, so made my mind easy concerning the enemy.
 ’ ’One of the pale faces had the Indian woman who came with them as a
 wife. Of another tribe and beyond the big mountains, we could not
 understand her tongue. The other pale face had no wife, and to honor him
-I gave him my only sister, Wan-na-ke , the handsome Okanogan princess.
+I gave him my only sister, Wan-na-ke, the handsome Okanogan princess.
 Chiefs and warriors of our own, as well as of distant tribes, had sought
 her, but she was valued above any gifts offered. It was to show my
 friendship and worship for the pale faced god that I gave him my sister
@@ -7231,7 +7231,7 @@ Great Spirit. 44 Seeing them so powerful, we prayed all the more to them
 from our hiding. We no longer worshipped them as at first, in the fear
 that they would laugh at us. But we thanked the Great Spirit for sending
 them to us. We had looked for them long. We knew that they had come to
-show us the right way , for had not the dead man foretold it?
+show us the right way, for had not the dead man foretold it?
 
 ’ ’In the spring when the birds had come back from the spirit world, 45
 and the red salmon were coming up the big river, my sister came to me in
@@ -7291,7 +7291,7 @@ to you; what the meaning of it is. He can not love you as one of his
 kind. Have you thought that maybe there are pale faced squaws where he
 came from, in the land of the morning lodge? In my dream I saw them!
 Their eyes are not of the night like those of the women of the
-Schu-ayl-p k . They are as the summer sky when the clouds are melted and
+Schu-ayl-p k. They are as the summer sky when the clouds are melted and
 gone.
 
 Their hair is as the leaves when touched by the first call of autumn.
@@ -7311,7 +7311,7 @@ with dread weapons of war. I saw our villages made desolate with fire
 and the graves of our fathers profaned. I saw the death-trail worn
 smooth by the moccasined feet of the dead and the death wail grew loud
 on the stormrack of night. It passed! the lament grew fainter and
-ceased. There were none to mourn for the last of the Schu-ayl-p k .
+ceased. There were none to mourn for the last of the Schu-ayl-p k.
 
 ’ ’I turned away, and as I passed through the doorway, I heard my sister
 moaning:
@@ -7365,7 +7365,7 @@ papoose, all wrapped in furs. She stood the cradle- board near me and
 bared the face of the baby, a boy. It was handsome, but light of skin as
 was its father. Wan-na-ka told me how the tribe’s greatest medicine man
 had foretold that if the boy lived, he would become a mighty chief, a
-great leader among the Schuayl-p k . But evil spirits, sent by the
+great leader among the Schuayl-p k. But evil spirits, sent by the
 medicine men of the Blackfeet, were threatening the child with a strange
 sickness, which if it came, would prove fatal, for none could combat it.
 46
@@ -7388,7 +7388,7 @@ laugh. Ofttimes she went into the woods and there wailed for her papoose
 and for the one who had deserted her. 48
 
 ’ ’After two snows, warrior and chiefs from the wide neighboring tribes
-came and sought Wan-na-ka’s hand. She refused them all. Kee-lau-naw , 49
+came and sought Wan-na-ka’s hand. She refused them all. Kee-lau-naw, 49
 a brave young chief rich in furs and shells, was one. I favored him
 among the many but I would not follow the old custom and give my sister
 against her will. I asked her why she would not again marry; why she
@@ -7723,7 +7723,7 @@ effectively destroying the sheet instead of leaving it exposed to
 possible detection. But, he reflected, the one terrific storm to which
 it had been subjected, must evidently have carried away or effaced
 sufficient of the message to render it unintelligible. He smiled at the
-memory of the swa-lah-kin . With this rather hazardous assurance, he
+memory of the swa-lah-kin. With this rather hazardous assurance, he
 hurriedly rejoined Cogewea, who was now some distance on the path.
 
 The two walked homeward, the countenance of the one, now feeling secure
@@ -8641,7 +8641,7 @@ He is too manly to ever shoot an unarmed man in any personal
 altercation. He may be a savage,’ she continued spiritedly, ‘but he has
 a great big heart and that is a whole lot more than a goodly part of
 this highly civilized nation can boast. Too many of the so-called white
-men are afflicted with the worst of blackheart .’
+men are afflicted with the worst of blackheart.’
 
 Densmore flushed deeply at this thrust, but he rejoined with an attempt
 at pleasantry:
@@ -9524,7 +9524,7 @@ by Lucullus Virgil McWhorter
 CHAPTER I.
 ----------
 
-1 Sne-nah : ‘owl-woman’ of the Okanogans and Tah-tah-kléah of the
+1 Sne-nah: ‘owl-woman’ of the Okanogans and Tah-tah-kléah of the
 Yakimas are in the same category. Of the many people devouring monsters,
 this old woman with her great shoulder basket in which she carries off
 victims - preferably children - to be cooked or broiled alive and eaten
@@ -9534,7 +9534,7 @@ This tradition, along with others mentioned in the course of this
 volume, will be given in full in works now under way by the author of
 Cogewea and the writer of this note.
 
-2 Wan-awis’h : denoting ‘water-rapids.’ While this name is properly
+2 Wan-awis’h: denoting ‘water-rapids.’ While this name is properly
 Yakima, it is not inappropriate, for in the first part of it is found
 the appellation for ‘river’ as spoken by many of the kindred Columbia
 River tribes.
@@ -9542,9 +9542,9 @@ River tribes.
 CHAPTER II.
 -----------
 
-3 Stem-tee-mӑ : Okanogan for ‘grandmother.’
+3 Stem-tee-mӑ: Okanogan for ‘grandmother.’
 
-4 Okanogan for rattlesnake is: Hwӑ\_hwӑ-ulӑh ; or Hӑh-ӑh-lӑwh . The
+4 Okanogan for rattlesnake is: Hwӑ\_hwӑ-ulӑh; or Hӑh-ӑh-lӑwh. The
 rendition varies, such as: ‘evil’ or ‘wicked-crawler’; ‘evil of the
 earth’; ‘evil spirit of the earth’; with perhaps other forms of
 interpretations. The reptile is held in reverential dread by all the
@@ -9589,20 +9589,20 @@ the entire stream as well.
 CHAPTER IV.
 -----------
 
-7 Kootenai , or Kutenai . The name is spelled in many and various ways;
+7 Kootenai, or Kutenai. The name is spelled in many and various ways;
 but the author has adhered to the generally accepted form. A distinct
 linguistic stock, the Kitunahan family extended from the lakes about the
 source of the Columbia in British Columbia, to the northern part of
 Montana, and to the Pend d’Oreille Lake in Idaho. It is supposed that
 they at one time resided east of the Rocky Mountains and were driven
-west of this barrier by the Siksika , their deadly enemy.
+west of this barrier by the Siksika, their deadly enemy.
 
 Although brave and courageous warriors, it is noteworthy that there
 never has been any serious trouble between the Kootenais and the whites.
 They are great gamblers and still possess many of their primitive
 customs. In some respects the women excelled in basketry and bead work.
 See DeSmet and other early western writers. Consult Handbook of American
-Indians , pp. 740 to 742.
+Indians, pp. 740 to 742.
 
 CHAPTER VI.
 -----------
@@ -9622,7 +9622,7 @@ medicine dance has always been open to both men and women alike.
 CHAPTER VIII.
 -------------
 
-9 The war-drum never figures in the spirit , or strictly religious
+9 The war-drum never figures in the spirit, or strictly religious
 dances. In these, the pom-pom or ‘tom-tom’ is in evidence; and, with the
 Yakimas and kindred tribes, only the skins of deer or the horse are used
 in the construction of the instrument. It must not be desecrated by
@@ -9630,7 +9630,7 @@ amusement usages.
 
 10 Seldom is it deemed necessary for the whip to be brought into play,
 but I have seen a few instances where it was so used. One of these
-batons, given me by Yellow Wolf , a Nez Perce warrior, is a great spike
+batons, given me by Yellow Wolf, a Nez Perce warrior, is a great spike
 of elk horn studded with brass nails and with a heavy lash of leather.
 Not only a scourge, it would be a formidable weapon, especially if
 wielded from horseback as primarily intended.
@@ -9644,11 +9644,11 @@ dictated by its owner, is still in manuscript form.
 CHAPTER X.
 ----------
 
-13 Sho-yah’-pee : denoting ‘white-man.’ The etymology is of foreign
+13 Sho-yah’-pee: denoting ‘white-man.’ The etymology is of foreign
 coinage, and in usage with but slight variation among all the
 northwestern tribes. The form here given and used throughout this volume
 is of the Spokanes as being slightly more phonetic than the Okanogan
-so-yah’-pen . It is the sho-yah’-poo of the Nez Perce, and the Yakimas;
+so-yah’-pen. It is the sho-yah’-poo of the Nez Perce, and the Yakimas;
 and the whe-nee-tum of the Victorians, B.C. An intelligent Yakima told
 me of its introduction among his people. It was brought by the first
 Jesuistic missionary from some tribe not recalled, where it was applied
@@ -9695,7 +9695,7 @@ ankles. I have often observed them when entering a tepee or house, to
 seat themselves upon the floor without effecting the least exposure of
 ankles.
 
-15 This law of force held with the Columbia River tribes. Harmelt , the
+15 This law of force held with the Columbia River tribes. Harmelt, the
 hunter, was a fine looking Indian of the Yakimas, tall, well built and
 active. A terrible fighter, the tribesmen all feared him. His arms and
 upper portion of body bore scores of knife wounds. He courted the wife
@@ -9745,7 +9745,7 @@ the blanket during festive occasions, gaze with blank stolidity into the
 face of a white interrogator, with perhaps only a negative grunt. This
 is considered a huge pleasantry to be laughed about afterwards.
 
-25 Exodus , XV, 23-25.
+25 Exodus, XV, 23-25.
 
 26 Mourning Dove had much of her information first hand, but for a
 concise exposure of the ghastly Blackfeet scandal, see James Willard
@@ -9764,16 +9764,16 @@ CHAPTER XIV.
 ------------
 
 18 The name applied to some of the Columbia River tribes; but in this
-particular, to the village and bands residing about Les Chaudière , or
-Kettle Falls . See: To the Reader .
+particular, to the village and bands residing about Les Chaudière, or
+Kettle Falls. See: To the Reader.
 
 19 A tradition of this prophecy is current among all the Columbia River
-tribes. The most noted, perhaps, was that of Kööms-kooms , who, in a
+tribes. The most noted, perhaps, was that of Kööms-kooms, who, in a
 vision, foretold the coming of a strange and powerful nation which would
 over-run and usurp their country. He described the superior implements
 of war and domestic utensils of their conquerors, along with some of the
 domestic animals. To this revelation can be traced the source of the
-present Pom-pom , or Dreamer religion of the Yakimas and others, which
+present Pom-pom, or Dreamer religion of the Yakimas and others, which
 is undoubtedly of comparatively recent origin. The dawn of the worship
 which constitutes the spirit dance of these tribes is lost in antiquity.
 The text gives a true version of this Okanogan oracle. In all cases
@@ -9782,16 +9782,16 @@ dead. ‘Killed’ or ‘was dead and came back to life’ is an expression they
 often use when narrating some serious accident to themselves or other
 members of the tribe.
 
-20 Chip-chap-tiqul K : Okanogan for myth, or improbable story.
+20 Chip-chap-tiqul K: Okanogan for myth, or improbable story.
 
-21 See To the Reader , this volume.
+21 See To the Reader, this volume.
 
 CHAPTER XV.
 -----------
 
-22 An historic fact. See To The Reader .
+22 An historic fact. See To The Reader.
 
-23 Revelation , VIII. 10-11.
+23 Revelation, VIII. 10-11.
 
 24 To a direct inquiry, an intelligent, primitive-minded Yakima in
 explaining to me their tribal belief relative to the Happy Hunting
@@ -9828,7 +9828,7 @@ down in history as one of the blackest pages in the murky annals of the
 Indian Bureau ‘system.’
 
 27 Chief Joseph was averse to talking of his misfortune in war and His
-Own Story published first in the North American Review , 1879, was
+Own Story published first in the North American Review, 1879, was
 practically the only interview that he ever granted. Throughout this
 meager narrative there is a modest dearth of self erudition; and his
 surviving warriors have assured me that their Chief had an antipathy for
@@ -9850,8 +9850,8 @@ august body, the Professor was duly disciplined as to his duty and part
 in the Bureau ‘machine.’ An avowed and scrupulous friend of the
 tribesmen, he has ever been a minority in subsequent proceedings. For
 contemporaneous treatment of ‘wards’ on the Yakima Reservation, see The
-Crime Against the Yakimas ; The Continued Crime Against. -and The
-Discards ; by the writer of this note.
+Crime Against the Yakimas; The Continued Crime Against. -and The
+Discards; by the writer of this note.
 
 CHAPTER XVIII.
 --------------
@@ -9869,11 +9869,11 @@ CHAPTER XIX.
 the loose desert soil; usually formed by the caving of the earth where
 two or more burrows are in close proximity or actually joined.
 
-32 Okanogan for war paint . Used not only for personal decoration, but
+32 Okanogan for war paint. Used not only for personal decoration, but
 in inscribing history and symbolic signs on tepees, implements of war,
 and other objects of certain character.
 
-33 Okanogan for ladle or spoon ; usually made of wood or horn.
+33 Okanogan for ladle or spoon; usually made of wood or horn.
 
 34 The te-kee-sten or ‘medicine-cane,’ along with the war pipe-and
 perhaps the peace pipe-were sacred and not to be touched by woman. To do
@@ -9892,7 +9892,7 @@ The private ‘medicine’ is invariably buried with the Indian’s body. In
 December, 1915, I saw two păh’-tash or ‘medicine’ canes interred with
 the body of We-yallup Wa-ya-cika -noted Chief and medicine man of the
 Yakimas. One was made from the slender sprout of the hard wood,
-lo-tsa-ni , whereon a grotesque and twisted growth of the larger end had
+lo-tsa-ni, whereon a grotesque and twisted growth of the larger end had
 been cunningly carved into a clever representation of an antlered deer.
 Barring three brass-headed nails used in delineation of the muzzle and
 front feet of the animal, the păh’-tash was without superficial
@@ -9907,10 +9907,10 @@ linguistic families of the great Columbia River basin what the buffalo
 was to the Siouan or plain Indians. Both enter largely into the legends
 and religious cult of the respective tribes.
 
-36 Four-point : referring to the short stripes, or bars woven into the
+36 Four-point: referring to the short stripes, or bars woven into the
 corner of the blanket, designated as ‘points.’ The highest number is
 five, which, perhaps owing to its conjunction with the Five Rules of
-Speel-yi , is greatly prized. The ‘points,’ however, pertain solely to
+Speel-yi, is greatly prized. The ‘points,’ however, pertain solely to
 the dimensions or weight of the blanket, the lowest being three, while
 four represents the intermediate size. The pattern was introduced by the
 Hudson Bay Company, nor have I ever seen one that was woven in the
@@ -9945,7 +9945,7 @@ unscrupulous traders poured the wealth of a nation. Nor has the looting
 ceased! The methods have only changed to suit the ever shifting
 conditions of the years.
 
-38 In the Stemteemă’s narrative of Green-blanket Feet , the author has
+38 In the Stemteemă’s narrative of Green-blanket Feet, the author has
 purposely incorporated incidents connected with two or three different
 occurrences. The story as preserved by the immediate descendants of the
 unfortunate woman and as given me by her granddaughter, Mrs. Susan
@@ -9989,7 +9989,7 @@ long, lonely way.
 
 But the wanderer fared well through this first part of her travels, as
 compared to what she was destined to endure. An enemy country must be
-crossed. The Blackfeet , Sioux , and other plains tribes were warring,
+crossed. The Blackfeet, Sioux, and other plains tribes were warring,
 killing or taking captive any who came their way. Having been warned by
 the friendlies, Sophia was ever alert to possible dangers; but at the
 cost of valuable time. On one occasion she found herself between two
@@ -9999,7 +9999,7 @@ the brush and timber along streams and ‘washouts’; but through it all
 she undauntedly pressed onward. Her moccasins worn to shreds, she tore
 strips from her blanket-green in color-with which to encase her feet.
 From this, she was subsequently sobriqueted by her tribe, ’
-Green-blanket Feet .’
+Green-blanket Feet.’
 
 Weary and famished, the woman at last arrived at Fort Benton. Directed
 to the boat landing, she hurried there only to see the steamer just
@@ -10038,7 +10038,7 @@ Kitty married Alonzo Hunter, sergeant in the U.S. Army and stationed at
 the military post near Walla Walla. It is averred that at the time of
 her marriage, the girl was not aware of her Indian descent. By accident,
 she and her brother met Mr. Charles Brown, a later son of Green-blanket
-Feet , who acquainted them with the history of their Indian blood.
+Feet, who acquainted them with the history of their Indian blood.
 
 The Hunters moved to Missoula, Montana; and to them three children were
 born; John, Charles and Susan. The mother died when Susan was but three
@@ -10090,7 +10090,7 @@ during the period covered by this story.
 
 41 Chinook for ‘secret thief.’
 
-42 Puch-queeh’ : ‘grass snake.’ Belonging more properly to the Yakima,
+42 Puch-queeh’: ‘grass snake.’ Belonging more properly to the Yakima,
 the phrase is expressive of distrust, a reflection on the declared
 intentions of a supposed friend. In every way it is the world wide
 ‘snake in the grass.’
@@ -10106,16 +10106,16 @@ done in various ways, but the most spectacular coming under my personal
 observation, was during a festive period, where the medicine man in
 native garb, mounted on a white horsea favorite color of the warrior
 class-rode circling back and forth in front of his own village, the
-while chanting a low weird tah , or medicine song in unison with the
+while chanting a low weird tah, or medicine song in unison with the
 measured tread of his mount.
 
 44 While history records no account of Lewis and Clark having wintered
 among the Okanogans, this tradition of the second coming of the
-Shoyah’pee as narrated by the Stemteemă , is, in its essence, true as
+Shoyah’pee as narrated by the Stemteemă, is, in its essence, true as
 handed down by this tribe. Perhaps time has confused it with accounts of
 the later expedition brought to them by their more southern neighbors.
 
-After the departure of the explorers, or voyageurs , and the return of
+After the departure of the explorers, or voyageurs, and the return of
 the Chief’s sister to her people, she explained that the skin had been
 laced to the drying-frame with the bark of young willows-perhaps with
 the willow itselfand had been struck from its fastenings after the
@@ -10130,12 +10130,12 @@ seen, and they ‘danced’ over it for several suns, endeavoring to fathom
 its magic. It was described as possessing a strong and very peculiar
 odor, now supposed to have been some kind of water-proof goods.
 
-45 The Okanogans , unacquainted with the destination of the migratory
+45 The Okanogans, unacquainted with the destination of the migratory
 birds, believed that they flew to the spirit land, at the approach of
 winter, whence they returned with the coming of spring.
 
 46 This attributive power of the medicine man to accomplish fatal injury
-from great distances, is not at all unusual. Yoom’-tee-bee ; ‘bitten by
+from great distances, is not at all unusual. Yoom’-tee-bee; ‘bitten by
 a grizzly bear,’ a prominent Chief of the Yakimas, was suddenly and
 mortally stricken in 1910, by a Columbia River medicine man, sixty miles
 away. One of his followers in describing the death of this chieftain
@@ -10156,7 +10156,7 @@ never be watched. If ending in an explosion of sparks, the victim is to
 be one of wealth and prominence. See Note 1, Chapter XXVII, this volume.
 
 The raven is a bird of ill omen, ever flying in the vanguard of disease
-and scourges. See Legends of the Yakimas ; by the writer of this note.
+and scourges. See Legends of the Yakimas; by the writer of this note.
 
 48 The partisan historian has ever loyally refrained from touching on
 the moral shortcomings of our border heroes. The Indian wives of two
@@ -10168,7 +10168,7 @@ declaring to kill him, should she ever meet him.
 
 49
 
-Kee-lau-naw : Okanogan for ‘grizzly-bear.’
+Kee-lau-naw: Okanogan for ‘grizzly-bear.’
 
 CHAPTER XXV.
 ------------
@@ -10193,7 +10193,7 @@ heavy quirt with which he was armed, bruising her about the neck and
 shoulders in a frightful manner. He rode away when the girl fell
 insensible to the ground. These Indians were of the ‘better class,’ and
 although the same Sheriff who was so prompt in the other case was
-notified, and the miscreant was well known, no arrest was made .
+notified, and the miscreant was well known, no arrest was made.
 
 I saw a policeman take two free drinks at different bars and within ten
 minutes go out and arrest a perfectly sober Yakima minor, whose pockets
@@ -10218,7 +10218,7 @@ suffering; yet still he was held in durance vile. I went to the
 Prosecutor, a deacon in a prominent church, and was blandly informed
 that ‘through professional courtesy’ the Injun was being retained until
 his counsel could collect the residue of an exorbitant feeactual
-imprisonment for debt .
+imprisonment for debt.
 
 CHAPTER XXVI.
 -------------
@@ -10243,7 +10243,7 @@ CHAPTER XXIX.
 -------------
 
 53 The Soma-ash’-hee always appears in a dream or vision, in the nature
-of a communication or revelation from the major deity, or Great Spirit .
+of a communication or revelation from the major deity, or Great Spirit.
 The mediumistic channel of this enigmatical impartation may be an
 animal, bird, reptile, or some inanimate object; the elements or
 celestial bodies, and not infrequently the departed human dead. Events
