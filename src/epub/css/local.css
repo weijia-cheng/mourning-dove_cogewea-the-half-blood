@@ -75,21 +75,25 @@ section > header [epub|type~="epigraph"] + *{
 /* End epigraphs in section headers */
 
 /* Begin verse */
+[epub|type~="z3998:song"] p,
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
 	text-indent: 0;
 }
 
+[epub|type~="z3998:song"] p > span,
 [epub|type~="z3998:verse"] p > span{
 	display: block;
 	padding-left: 1em;
 	text-indent: -1em;
 }
 
+[epub|type~="z3998:song"] p > span + br,
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
 
+[epub|type~="z3998:song"] p + p,
 [epub|type~="z3998:verse"] p + p{
 	margin-top: 1em;
 }
@@ -119,6 +123,16 @@ p span.i6{
 }
 /* End verse */
 
+/* Begin letters */
+[epub|type~="z3998:salutation"] + p{
+	text-indent: 0;
+}
+
+p[epub|type~="z3998:salutation"]{
+	font-variant: small-caps;
+}
+/* End letters */
+
 footer{
 	margin-top: 1em;
 	text-align: right;
@@ -130,4 +144,52 @@ footer{
 
 #foreword footer p:first-of-type{
 	float: left;
+}
+
+#chapter-9 blockquote header{
+	text-align: right;
+}
+
+#chapter-20 > blockquote:last-of-type{
+	display: block;
+	margin: auto;
+	margin-top: 1em;
+	max-width: fit-content;
+	text-align: center;
+}
+
+#chapter-20 > blockquote:last-of-type > p{
+	text-indent: 0;
+}
+
+#chapter-20 > blockquote:last-of-type b,
+#chapter-20 > blockquote:last-of-type > p:first-of-type{
+	text-transform: uppercase;
+}
+
+#chapter-20 > blockquote:last-of-type > p:nth-of-type(3){
+	margin-top: 1em;
+}
+
+#chapter-20 > blockquote:last-of-type [epub|type~="z3998:signature"]{
+	font-style: italic;
+	font-variant: normal;
+	text-align: right;
+}
+
+#chapter-25 time{
+	float: left;
+}
+
+#chapter-31 blockquote:last-of-type{
+	display: block;
+	margin: auto;
+	margin-top: 3em;
+	max-width: fit-content;
+}
+
+#chapter-31 blockquote:last-of-type cite{
+	font-style: normal;
+	font-variant: small-caps;
+	margin-top: 1em;
 }
