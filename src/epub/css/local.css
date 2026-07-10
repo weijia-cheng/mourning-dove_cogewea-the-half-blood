@@ -39,7 +39,6 @@ section[epub|type~="dedication"] > *{
 	-epub-hyphens: none;
 }
 
-[epub|type~="epigraph"] em,
 [epub|type~="epigraph"] i{
 	font-style: normal;
 }
@@ -61,10 +60,6 @@ section > header [epub|type~="epigraph"]{
 	margin: auto;
 	max-width: 80%;
 	text-align: initial;
-}
-
-section > header [epub|type~="epigraph"] + *{
-	margin-top: 3em;
 }
 
 @supports(display: table){
@@ -93,8 +88,7 @@ section > header [epub|type~="epigraph"] + *{
 	display: none;
 }
 
-[epub|type~="z3998:song"] p + p,
-[epub|type~="z3998:verse"] p + p{
+[epub|type~="z3998:song"] p + p{
 	margin-top: 1em;
 }
 
@@ -109,11 +103,6 @@ span.elision{
 
 p span.i1{
 	padding-left: 2em;
-	text-indent: -1em;
-}
-
-p span.i2{
-	padding-left: 3em;
 	text-indent: -1em;
 }
 
