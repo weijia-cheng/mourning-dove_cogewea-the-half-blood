@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="chapter-1.xhtml">
+		<ignore code="t-030">
+			<line>36</line>
+			<reason>Brand mark without periods.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2.xhtml">
+		<ignore code="t-030">
+			<line>28</line>
+			<line>93</line>
+			<reason>Brand mark without periods.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-3.xhtml">
+		<ignore code="t-030">
+			<line>57</line>
+			<reason>Brand mark without periods.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-5.xhtml">
+		<ignore code="t-030">
+			<line>39</line>
+			<reason>Brand mark without periods.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-6.xhtml">
+		<ignore code="t-030">
+			<line>68</line>
+			<reason>Brand mark without periods.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-7.xhtml">
+		<ignore code="t-030">
+			<line>39</line>
+			<line>42</line>
+			<line>47</line>
+			<reason>Brand mark without periods.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-13.xhtml">
+		<ignore code="t-030">
+			<line>30</line>
+			<reason>Brand mark without periods.</reason>
+		</ignore>
+	</file>
 	<file path="chapter-18.xhtml">
 		<ignore code="s-023">
 			<line>13</line>
@@ -12,16 +57,65 @@
 			<reason>Proper name in title.</reason>
 		</ignore>
 	</file>
+	<file path="chapter-20.xhtml">
+		<ignore code="t-030">
+			<line>28</line>
+			<reason>Brand mark without periods.</reason>
+		</ignore>
+	</file>
 	<file path="chapter-21.xhtml">
 		<ignore code="y-024">
 			<line>69</line>
 			<reason>Hyphen represents (“t-there”).</reason>
+		</ignore>
+		<ignore code="t-030">
+			<line>36</line>
+			<line>67</line>
+			<reason>Brand mark without periods.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-22.xhtml">
+		<ignore code="t-030">
+			<line>60</line>
+			<line>68</line>
+			<line>83</line>
+			<line>84</line>
+			<reason>Brand mark without periods.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-23.xhtml">
+		<ignore code="t-030">
+			<line>67</line>
+			<line>74</line>
+			<line>82</line>
+			<line>87</line>
+			<reason>Brand mark without periods.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-28.xhtml">
+		<ignore code="t-030">
+			<line>77</line>
+			<reason>Brand mark without periods.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-29.xhtml">
 		<ignore code="s-023">
 			<line>13</line>
 			<reason>Proper name in title.</reason>
+		</ignore>
+		<ignore code="t-030">
+			<line>34</line>
+			<reason>Brand mark without periods.</reason>
+		</ignore>
+		<ignore code="t-032">
+			<line>34</line>
+			<reason>Brand mark without periods.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-30.xhtml">
+		<ignore code="t-030">
+			<line>42</line>
+			<reason>Brand mark without periods.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
