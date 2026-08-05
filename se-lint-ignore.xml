@@ -64,14 +64,14 @@
 		</ignore>
 	</file>
 	<file path="chapter-21.xhtml">
-		<ignore code="y-024">
-			<line>69</line>
-			<reason>Hyphen represents (“t-there”).</reason>
-		</ignore>
 		<ignore code="t-030">
 			<line>36</line>
 			<line>67</line>
 			<reason>Brand mark without periods.</reason>
+		</ignore>
+		<ignore code="y-024">
+			<line>69</line>
+			<reason>Hyphen represents (“t-there”).</reason>
 		</ignore>
 	</file>
 	<file path="chapter-22.xhtml">
