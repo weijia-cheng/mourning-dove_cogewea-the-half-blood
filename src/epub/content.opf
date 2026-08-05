@@ -30,52 +30,57 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Cogewea, the Half-Blood</dc:title>
 		<meta property="file-as" refines="#title">Cogewea, the Half-Blood</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">A Depiction of the Great Montana Cattle Range</dc:title>
+		<meta property="file-as" refines="#subtitle">Depiction of the Great Montana Cattle Range, A</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">Cogewea, the Half-Blood: A Depiction of the Great Montana Cattle Range</dc:title>
+		<meta property="file-as" refines="#fulltitle">Cogewea, the Half-Blood</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
+		<dc:subject id="subject-1">Indians of North America--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">SUBJECT_1_LCSH_ID</meta>
-		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">SUBJECT_2_LCSH_ID</meta>
-		<meta property="schema:genre">TAG</meta>
+		<meta property="term" refines="#subject-1">sh85065264</meta>
+		<meta property="schema:genre">Fiction</meta>
+		<meta property="schema:abstract">A young woman rancher of mixed Native American and European descent is wooed by the foreman and a newly-arrived tenderfoot.</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
-		</meta>
 		<dc:language>en-US</dc:language>
-		<dc:source>TRANSCRIPTION_URL</dc:source>
-		<dc:source>PAGE_SCANS_URL</dc:source>
+		<dc:source>https://digitalcommons.unl.edu/etas/84/</dc:source>
+		<dc:source>https://en.wikisource.org/wiki/Index:Co-ge-we-a,_the_half_blood.djvu</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/006498572</dc:source>
 		<meta property="schema:wordCount">WORD_COUNT</meta>
 		<meta property="schema:educationalLevel">READING_EASE</meta>
-		<link href="https://en.wikipedia.org/wiki/Cogewea,_the_Half-Blood" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Cogewea" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/mourning-dove_cogewea-the-half-blood" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Mourning Dove</dc:creator>
-		<meta property="file-as" refines="#author">Dove, Mourning</meta>
-		<meta property="schema:alternateName" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
-		<link href="https://en.wikipedia.org/wiki/Mourning_Dove" refines="#author" rel="schema:sameAs"/>
-		<link href="CONTRIBUTOR_NACOAF_URI" refines="#author" rel="schema:sameAs"/>
+		<meta property="file-as" refines="#author">Mourning Dove</meta>
+		<link href="https://en.wikipedia.org/wiki/Mourning_Dove_(author)" refines="#author" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n81003147.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST_NAME</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<link href="COVER_ARTIST_WIKI_URL" refines="#artist" rel="schema:sameAs"/>
-		<link href="COVER_ARTIST_NACOAF_URI" refines="#artist" rel="schema:sameAs"/>
+		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
+		<dc:contributor id="editor">Lucullus Virgil McWhorter</dc:contributor>
+		<meta property="file-as" refines="#editor">McWhorter, Lucullus Virgil</meta>
+		<link href="https://en.wikipedia.org/wiki/Lucullus_Virgil_McWhorter" refines="#editor" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n81003149.html" refines="#editor" rel="schema:sameAs"/>
+		<meta property="role" refines="#editor" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#editor" scheme="marc:relators">edt</meta>
+		<meta property="role" refines="#editor" scheme="marc:relators">wfw</meta>
+		<dc:contributor id="artist">Albert Bierstadt</dc:contributor>
+		<meta property="file-as" refines="#artist">Bierstadt, Albert</meta>
+		<link href="https://en.wikipedia.org/wiki/Albert_Bierstadt" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n50011230.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER_1_NAME</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
-		<link href="TRANSCRIBER_1_URL" refines="#transcriber-1" rel="schema:url"/>
+		<dc:contributor id="transcriber-1">Susan Kalter</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Kalter, Susan</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">TRANSCRIBER_2_NAME</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_2_SORT</meta>
-		<link href="TRANSCRIBER_2_URL" refines="#transcriber-2" rel="schema:url"/>
+		<dc:contributor id="transcriber-2">Wikisource</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Wikisource</meta>
+		<link href="https://en.wikisource.org/" refines="#transcriber-2" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
-		<link href="https://www.pgdp.net/" refines="#transcriber-3" rel="schema:url"/>
-		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER_NAME</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<link href="PRODUCER_URL" refines="#producer-1" rel="schema:url"/>
+		<dc:contributor id="producer-1">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Cheng, Weijia</meta>
+		<link href="https://www.weijiarhymeswith.asia/" refines="#producer-1" rel="schema:url"/>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
